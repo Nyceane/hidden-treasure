@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Hidden Treasure</string>
+    <string name="aar_save">Save</string>
+    <string name="aar_paused">Paused</string>
+    <string name="aar_recording">Recording</string>
+    <string name="aar_playing">Playing</string>
+    <string name="recording_enabled_prompt">Record during calls</string>
+    <string name="audio_source_prompt">Audio source</string>
+    <string name="audio_format_prompt">Audio format</string>
+</resources>
